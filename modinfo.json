@@ -1,7 +1,7 @@
 {
 	"name": "Death and Spawn Holdup",
 	"description": "Early Version, use at your own risk. Edits BaseBPCombat.\n\nMakes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds (Default 180)\n\nDatacmd DASHSuicide or remove bracelet from main menu to respawn.\nDatacmd DASHRevive to get up when downed.\nDatacmd DASHSettings to open settings. (Admin Only)\n\nTO DO:\n-Make bracelet removal result customizable.\n-Make people able to revive others.\n-Add countdown for unconscious duration.",
-	"changeNote": "-Added Settings UI\n-Moved Unconscious Event out of BaseBPCombat but it still gets edited to trigger it.\n-It's now possible to customise downed duration.",
+	"changeNote": "",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2021,
