@@ -1,16 +1,16 @@
 {
 	"name": "Death and Spawn Holdup",
-	"description": "Early Version, use at your own risk. Edits BaseBPCombat.\n\nMakes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds (Default 180)\n\nDatacmd DASHSuicide or remove bracelet from main menu to respawn.\nDatacmd DASHRevive to get up when downed.\nDatacmd DASHSettings to open settings. (Admin Only)\n\nTO DO:\n-Make bracelet removal result customizable.\n-Make people able to revive others.\n-Add countdown for unconscious duration.",
-	"changeNote": "",
+	"description": "Early Version, use at your own risk. Edits BaseSurvivalChar\n\nMakes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds (Default 180)\n\nDatacmd DASHSuicide or remove bracelet from main menu to respawn.\nDatacmd DASHRevive to get up when downed. (Will be made Admin Only eventually)\nDatacmd DASHSettings to open settings. (Admin Only)\n\nTO DO:\n-Add optional debuff after death\n-Make downed countdown timer visible to all",
+	"changeNote": "-Editing BaseSurvivalChar now for hopefully better compatibility\n-Players can help each other up now\n-Bracelet Pull result customisable",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2021,
 	"versionMinor": 10,
-	"versionBuild": 7,
+	"versionBuild": 21,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2620951884",
 	"steamVisibility": 0,
 	"folderName": "dash",
-	"revisionNumber": 322016,
-	"snapshotId": 30911
+	"revisionNumber": 326329,
+	"snapshotId": 31198
 }
