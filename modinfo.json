@@ -1,16 +1,16 @@
 {
 	"name": "Death and Spawn Holdup",
-	"description": "Makes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds.\n\nDatacmd DASHSuicide to die a default death.\nDatacmd DASHRevive to get up when downed. (Admin Only)\nDatacmd DASHSettings to open settings. (Admin Only)\n\nEdits BaseSurvivalChar.\n\nTO DO:\n-Add optional debuff after death\n-Make downed countdown timer visible to all\n\n",
-	"changeNote": "-Editing BaseSurvivalChar now for hopefully better compatibility\n-Players can help each other up now\n-Bracelet Pull result customisable",
+	"description": "Makes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds.\nPlayers can help other players up to get them up early.\n\nDatacmd DASHSuicide to die a default death.\nDatacmd DASHRevive to get up when downed. (Admin Only)\nDatacmd DASHSettings to open settings. (Admin Only)\n\nEdits BaseSurvivalChar.\n\nTO DO:\n-Add optional debuff after death\n-Make downed countdown timer visible to all\n\nSource: github.com/kaeryo/dash\nThe mod currently has no discord. You can leave a comment on steam or find me on Conan Modding Discord to pm: discord.gg/66jB9dN \n\n",
+	"changeNote": "-Update for 2.8",
 	"author": "Kaeryo",
 	"authorUrl": "",
-	"versionMajor": 2021,
-	"versionMinor": 11,
-	"versionBuild": 17,
+	"versionMajor": 2022,
+	"versionMinor": 2,
+	"versionBuild": 14,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2620951884",
 	"steamVisibility": 0,
 	"folderName": "dash",
-	"revisionNumber": 326329,
-	"snapshotId": 31198
+	"revisionNumber": 348928,
+	"snapshotId": 32447
 }

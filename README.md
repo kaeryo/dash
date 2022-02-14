@@ -1,13 +1,15 @@
 # dash
-Early Version, use at your own risk. Edits BaseBPCombat.
+Makes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds.
+Players can help other players up to get them up early.
 
-Makes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds (Default 180)
-
-Datacmd DASHSuicide or remove bracelet from main menu to respawn.
-Datacmd DASHRevive to get up when downed.
+Datacmd DASHSuicide to die a default death.
+Datacmd DASHRevive to get up when downed. (Admin Only)
 Datacmd DASHSettings to open settings. (Admin Only)
 
+Edits BaseSurvivalChar.
+
 TO DO:
--Make bracelet removal result customizable.
--Make people able to revive others.
--Add countdown for unconscious duration.
+-Add optional debuff after death
+-Make downed countdown timer visible to all
+
+The mod currently has no discord. You can leave a comment on steam or find me on Conan Modding Discord to pm: discord.gg/66jB9dN
