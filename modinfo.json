@@ -1,16 +1,18 @@
 {
 	"name": "Death and Spawn Holdup",
-	"description": "Makes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds.\nPlayers can help other players up to get them up early.\n\nDatacmd DASHSuicide to die a default death.\nDatacmd DASHRevive to get up when downed. (Admin Only)\nDatacmd DASHSettings to open settings. (Admin Only)\n\nEdits BaseSurvivalChar.\n\nTo Do:\n-Add optional debuff after death\n-Make downed countdown timer visible to all\n\nSource: github.com/kaeryo/dash\nThe mod currently has no discord. You can leave a comment on steam or find me on Conan Modding Discord to pm: discord.gg/66jB9dN \n\n",
-	"changeNote": "-Fixed an error in the logs that came up during coop/singleplayer, not sure if it affected functionality\n-Fixed an issue where sometimes a downed character would get stuck and require being attacked to move again if attacked too fast\n-Fixed an issue in coop where people would not appear downed from the hosts perspective and host couldn't revive them (known bug: host gets 2 identical revive buttons now)",
+	"description": "Makes it so that when a player dies, instead of respawning, they go unconscious for custom amount of seconds.\nPlayers can help other players up to get them up early.\n\nDatacmd DASHSuicide to die a default death.\nDatacmd DASHRevive to get up when downed. (Admin Only)\nDatacmd DASHSettings to open settings. (Admin Only)\n\nEdits BaseSurvivalChar.\n\nSource: github.com/kaeryo/dash\nThe mod currently has no discord. You can leave a comment on steam or find me on Conan Modding Discord to pm: discord.gg/66jB9dN \n\n",
+	"changeNote": "-Improved UI elements\n-Added optional debuffs to apply after being raised",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2022,
-	"versionMinor": 6,
-	"versionBuild": 13,
+	"versionMinor": 9,
+	"versionBuild": 3,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2620951884",
+	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "dash",
-	"revisionNumber": 348928,
-	"snapshotId": 32447
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
 }

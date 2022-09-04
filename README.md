@@ -8,8 +8,4 @@ Datacmd DASHSettings to open settings. (Admin Only)
 
 Edits BaseSurvivalChar.
 
-TO DO:
--Add optional debuff after death
--Make downed countdown timer visible to all
-
 The mod currently has no discord. You can leave a comment on steam or find me on Conan Modding Discord to pm: discord.gg/66jB9dN
